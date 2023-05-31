@@ -138,11 +138,11 @@ learn more at the sample MainActivity.java
 
 ## Blog
 
-   [货拉拉 Android 动态资源管理系统原理与实践](https://juejin.cn/post/7113703128733581342)
+   [货拉拉 Android 动态资源管理系统原理与实践](https://juejin.cn/post/7238627611265613882)
 
 ## Author
 
-   [HUOLALA mobile technology team](https://juejin.cn/post/7238627611265613882)
+[HUOLALA mobile technology team](https://juejin.cn/user/1768489241815070)
 
 ## License
 
